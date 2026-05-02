@@ -1,0 +1,182 @@
+[
+    {
+      "employee_id": "E100",
+      "name": "John Doe",
+      "pto_balance": 12,
+      "pto_details": [{"type": "Annual Leave", "days": 12}]
+    },
+    {
+      "employee_id": "E101",
+      "name": "Jane Smith",
+      "pto_balance": 8,
+      "pto_details": [{"type": "Annual Leave", "days": 8}]
+    },
+    {
+      "employee_id": "E102",
+      "name": "Michael Brown",
+      "pto_balance": 15,
+      "pto_details": [{"type": "Annual Leave", "days": 15}]
+    },
+    {
+      "employee_id": "E103",
+      "name": "Emily Davis",
+      "pto_balance": 10,
+      "pto_details": [{"type": "Annual Leave", "days": 10}]
+    },
+    {
+      "employee_id": "E104",
+      "name": "David Wilson",
+      "pto_balance": 6,
+      "pto_details": [{"type": "Annual Leave", "days": 6}]
+    },
+    {
+      "employee_id": "E105",
+      "name": "Sarah Taylor",
+      "pto_balance": 14,
+      "pto_details": [{"type": "Annual Leave", "days": 14}]
+    },
+    {
+      "employee_id": "E106",
+      "name": "Chris Anderson",
+      "pto_balance": 9,
+      "pto_details": [{"type": "Annual Leave", "days": 9}]
+    },
+    {
+      "employee_id": "E107",
+      "name": "Olivia Thomas",
+      "pto_balance": 11,
+      "pto_details": [{"type": "Annual Leave", "days": 11}]
+    },
+    {
+      "employee_id": "E108",
+      "name": "Daniel Jackson",
+      "pto_balance": 7,
+      "pto_details": [{"type": "Annual Leave", "days": 7}]
+    },
+    {
+      "employee_id": "E109",
+      "name": "Sophia White",
+      "pto_balance": 13,
+      "pto_details": [{"type": "Annual Leave", "days": 13}]
+    },
+    {
+      "employee_id": "E110",
+      "name": "James Harris",
+      "pto_balance": 5,
+      "pto_details": [{"type": "Annual Leave", "days": 5}]
+    },
+    {
+      "employee_id": "E111",
+      "name": "Mia Martin",
+      "pto_balance": 16,
+      "pto_details": [{"type": "Annual Leave", "days": 16}]
+    },
+    {
+      "employee_id": "E112",
+      "name": "Benjamin Thompson",
+      "pto_balance": 12,
+      "pto_details": [{"type": "Annual Leave", "days": 12}]
+    },
+    {
+      "employee_id": "E113",
+      "name": "Charlotte Garcia",
+      "pto_balance": 10,
+      "pto_details": [{"type": "Annual Leave", "days": 10}]
+    },
+    {
+      "employee_id": "E114",
+      "name": "Lucas Martinez",
+      "pto_balance": 8,
+      "pto_details": [{"type": "Annual Leave", "days": 8}]
+    },
+    {
+      "employee_id": "E115",
+      "name": "Amelia Robinson",
+      "pto_balance": 17,
+      "pto_details": [{"type": "Annual Leave", "days": 17}]
+    },
+    {
+      "employee_id": "E116",
+      "name": "Henry Clark",
+      "pto_balance": 9,
+      "pto_details": [{"type": "Annual Leave", "days": 9}]
+    },
+    {
+      "employee_id": "E117",
+      "name": "Harper Rodriguez",
+      "pto_balance": 14,
+      "pto_details": [{"type": "Annual Leave", "days": 14}]
+    },
+    {
+      "employee_id": "E118",
+      "name": "Alexander Lewis",
+      "pto_balance": 6,
+      "pto_details": [{"type": "Annual Leave", "days": 6}]
+    },
+    {
+      "employee_id": "E119",
+      "name": "Evelyn Lee",
+      "pto_balance": 11,
+      "pto_details": [{"type": "Annual Leave", "days": 11}]
+    },
+    {
+      "employee_id": "E120",
+      "name": "Matthew Walker",
+      "pto_balance": 13,
+      "pto_details": [{"type": "Annual Leave", "days": 13}]
+    },
+    {
+      "employee_id": "E121",
+      "name": "Abigail Hall",
+      "pto_balance": 7,
+      "pto_details": [{"type": "Annual Leave", "days": 7}]
+    },
+    {
+      "employee_id": "E122",
+      "name": "Joseph Allen",
+      "pto_balance": 15,
+      "pto_details": [{"type": "Annual Leave", "days": 15}]
+    },
+    {
+      "employee_id": "E123",
+      "name": "Ella Young",
+      "pto_balance": 12,
+      "pto_details": [{"type": "Annual Leave", "days": 12}]
+    },
+    {
+      "employee_id": "E124",
+      "name": "Samuel Hernandez",
+      "pto_balance": 8,
+      "pto_details": [{"type": "Annual Leave", "days": 8}]
+    },
+    {
+      "employee_id": "E125",
+      "name": "Scarlett King",
+      "pto_balance": 16,
+      "pto_details": [{"type": "Annual Leave", "days": 16}]
+    },
+    {
+      "employee_id": "E126",
+      "name": "Jack Wright",
+      "pto_balance": 10,
+      "pto_details": [{"type": "Annual Leave", "days": 10}]
+    },
+    {
+      "employee_id": "E127",
+      "name": "Grace Lopez",
+      "pto_balance": 9,
+      "pto_details": [{"type": "Annual Leave", "days": 9}]
+    },
+    {
+      "employee_id": "E128",
+      "name": "Owen Hill",
+      "pto_balance": 14,
+      "pto_details": [{"type": "Annual Leave", "days": 14}]
+    },
+    {
+      "employee_id": "E129",
+      "name": "Chloe Scott",
+      "pto_balance": 11,
+      "pto_details": [{"type": "Annual Leave", "days": 11}]
+    }
+  ]

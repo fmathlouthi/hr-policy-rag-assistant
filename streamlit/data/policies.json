@@ -1,0 +1,82 @@
+[
+  {
+    "id": "P-001",
+    "title": "Remote Work Policy",
+    "category": "Workplace",
+    "description": "Employees can work remotely up to two days per week with manager approval.",
+    "status": "active",
+    "effective_year": 2026
+  },
+  {
+    "id": "P-002",
+    "title": "Annual Leave Policy",
+    "category": "Time Off",
+    "description": "Full-time employees receive 20 days of annual leave per year.",
+    "status": "active",
+    "effective_year": 2026
+  },
+  {
+    "id": "P-003",
+    "title": "Sick Leave Policy",
+    "category": "Time Off",
+    "description": "Employees receive 10 sick leave days annually.",
+    "status": "active",
+    "effective_year": 2026
+  },
+  {
+    "id": "P-004",
+    "title": "Parental Leave Policy",
+    "category": "Benefits",
+    "description": "Eligible employees receive paid parental leave.",
+    "status": "active",
+    "effective_year": 2026
+  },
+  {
+    "id": "P-005",
+    "title": "Travel Expense Policy",
+    "category": "Finance",
+    "description": "Business travel expenses are reimbursable with receipts.",
+    "status": "active",
+    "effective_year": 2026
+  },
+  {
+    "id": "P-006",
+    "title": "Dress Code Policy",
+    "category": "Workplace",
+    "description": "Employees should maintain professional attire.",
+    "status": "active",
+    "effective_year": 2026
+  },
+  {
+    "id": "P-007",
+    "title": "Code of Conduct",
+    "category": "Compliance",
+    "description": "All employees must follow ethical business practices.",
+    "status": "active",
+    "effective_year": 2026
+  },
+  {
+    "id": "P-008",
+    "title": "IT Security Policy",
+    "category": "Security",
+    "description": "Use strong passwords and MFA on company systems.",
+    "status": "active",
+    "effective_year": 2026
+  },
+  {
+    "id": "P-009",
+    "title": "Overtime Policy",
+    "category": "Payroll",
+    "description": "Overtime must be pre-approved by management.",
+    "status": "active",
+    "effective_year": 2026
+  },
+  {
+    "id": "P-010",
+    "title": "Training Policy",
+    "category": "Development",
+    "description": "Employees are encouraged to complete annual training.",
+    "status": "active",
+    "effective_year": 2026
+  }
+]

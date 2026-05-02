@@ -1,0 +1,9 @@
+langchain-core
+langchain-community
+langchain-openai
+langchain-text-splitters
+faiss-cpu
+streamlit
+pytest
+pytest-asyncio
+python-dotenv
